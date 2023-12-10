@@ -25,3 +25,7 @@ the code in the bad directory will succeed very sporadically
 the code in the good directory will fail very sporadically
 
 The only difference is the use of passing a dynamic array in to the C function from SystemVerilog
+
+# From Linux
+
+The issue has not been reproduced by me on a Linux/Ubuntu-22 install of Vivado 2023.2
